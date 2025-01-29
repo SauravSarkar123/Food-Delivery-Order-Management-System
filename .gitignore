@@ -72,9 +72,6 @@ build/
 # Debug files
 *.dump
 
-# Test files
-*.test.js
-*.spec.js
 
 # Lockfiles
 package-lock.json
